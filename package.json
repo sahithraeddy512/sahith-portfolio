@@ -1,8 +1,5 @@
 {
-  "name": "sahith-portfolio",
-  "version": "1.0.0",
   "homepage": "https://sahithraeddy512.github.io/sahith-portfolio",
-  "private": true,
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
