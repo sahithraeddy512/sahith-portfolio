@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sahith-portfolio/static/css/main.29119eda.chunk.css",
+    "main.js": "/sahith-portfolio/static/js/main.27876d18.chunk.js",
+    "main.js.map": "/sahith-portfolio/static/js/main.27876d18.chunk.js.map",
+    "runtime-main.js": "/sahith-portfolio/static/js/runtime-main.057cd7d8.js",
+    "runtime-main.js.map": "/sahith-portfolio/static/js/runtime-main.057cd7d8.js.map",
+    "static/js/2.2e363b81.chunk.js": "/sahith-portfolio/static/js/2.2e363b81.chunk.js",
+    "static/js/2.2e363b81.chunk.js.map": "/sahith-portfolio/static/js/2.2e363b81.chunk.js.map",
+    "index.html": "/sahith-portfolio/index.html",
+    "precache-manifest.4d313fd35d6df906fe3971657d84929c.js": "/sahith-portfolio/precache-manifest.4d313fd35d6df906fe3971657d84929c.js",
+    "service-worker.js": "/sahith-portfolio/service-worker.js",
+    "static/css/main.29119eda.chunk.css.map": "/sahith-portfolio/static/css/main.29119eda.chunk.css.map",
+    "static/js/2.2e363b81.chunk.js.LICENSE.txt": "/sahith-portfolio/static/js/2.2e363b81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.057cd7d8.js",
+    "static/js/2.2e363b81.chunk.js",
+    "static/css/main.29119eda.chunk.css",
+    "static/js/main.27876d18.chunk.js"
+  ]
+}
